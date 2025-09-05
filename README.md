@@ -14,8 +14,6 @@
 - [BookingSystem](https://github.com/Francisco-Galea/BookingSystem): Sistema de reservas multi-entidad con ASP.NET Core + SQL Server.
 - [Gestin](https://github.com/Francisco-Galea/Gestin): Sistema de gestión académica (colaboración en equipo).
 
-## 📊 Stats de GitHub
-![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Francisco-Galea&show_icons=true&theme=radical)
 
 ## 🌐 Contacto
 - [LinkedIn](https://www.linkedin.com/in/francisco-galea/)  
