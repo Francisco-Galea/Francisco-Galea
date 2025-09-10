@@ -7,7 +7,7 @@ Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases d
 ---
 
 ## 🖥️ Backend
-[![C](https://skillicons.dev/icons?i=c)(https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170)
+[!C](https://skillicons.dev/icons?i=c)
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![EF Core](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/)
