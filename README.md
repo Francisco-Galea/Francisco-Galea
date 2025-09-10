@@ -7,12 +7,12 @@ Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases d
 ---
 
 ## 🖥️ Backend
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+[![C#](https://skillicons.dev/icons?i=c)]
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
+[![EF Core](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/)
+[![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=nuget&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white)
 
 ---
 
@@ -41,6 +41,4 @@ Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases d
 ## 📬 Contacto
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-galea/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Francisco-Galea) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:galeafrancisco2001@gmail.com)  
 ---
-
-
 
