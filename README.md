@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Francisco Galea
-<img align="right" src="https://github.com/Francisco-Galea.png" width="150"/>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhtc2tnNzkybGQ1bHR6YXlqNHdiYjE2ODJ3dnlvMWhkenQ3cXRqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a1QLZUUtCcgyA/giphy.gif" width="150"/>
 
 Soy un **desarrollador backend comprometido con la calidad del software**.  
 Creo firmemente que un buen código no solo debe funcionar, sino también ser **mantenible, escalable y entendible por otros desarrolladores**.  
