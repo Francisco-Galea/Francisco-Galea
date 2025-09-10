@@ -25,6 +25,7 @@ Mi objetivo es **crear software confiable y limpio**, aportando valor real a los
 ## 🎨 Frontend
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.dev/)
 [![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
