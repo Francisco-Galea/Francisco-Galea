@@ -1,23 +1,48 @@
-<h1 align="center">Hola! Soy Francisco</h1>
-<h3 align="center">Desarrollador Backend</h3>
+# 👋 ¡Hola! Soy Francisco Galea
+<img align="right" src="https://github.com/Francisco-Galea.png" width="150"/>
 
-- 🔭 Trabajando en **Mindly**
+Soy desarrollador **Backend** apasionado por el análisis de problemas y la construcción de soluciones escalables.  
+Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases de datos, aplicando buenas prácticas, patrones y principios de diseño.  
 
-- 🌱 Aprendiendo **Angular, TypeScript**
+---
 
-- 👨‍💻 Todos mis proyectos en [https://github.com/Francisco-Galea](https://github.com/Francisco-Galea)
+## 🖥️ Backend
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
+[![SQL Server](https://skillicons.dev/icons?i=azure)](https://www.microsoft.com/sql-server) <!-- no hay ícono exacto, azure como referencia -->
+[![EF Core](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/)
+[![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 
-- 📫 Contactame **galeafrancisco2001@gmail.com**
+---
 
-- ⚡ Fun fact **A traves de las dificultades, hacia las estrellas**
+## 🎨 Frontend
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.dev/)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
-<h3 align="left">Buscame en:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-galea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-galea/" height="30" width="40" /></a>
-<a href="https://discord.gg/835342539518771260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="835342539518771260" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## ⚙️ Herramientas
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=francisco-galea&show_icons=true&locale=en&layout=compact" alt="francisco-galea" /></p>
+---
+
+## 🧪 Testing
+![xUnit](https://img.shields.io/badge/-xUnit-5A2D82?logo=nuget&logoColor=white)
+![Moq](https://img.shields.io/badge/-Moq-008000?logo=nuget&logoColor=white)
+
+---
+
+## 📬 Contacto
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-galea/)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Francisco-Galea)  
+📧 **Email:** [galeafrancisco2001@gmail.com](mailto:galeafrancisco2001@gmail.com)
+---
+
+
+
