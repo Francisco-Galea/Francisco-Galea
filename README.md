@@ -1,8 +1,12 @@
 # 👋 ¡Hola! Soy Francisco Galea
 <img align="right" src="https://github.com/Francisco-Galea.png" width="150"/>
 
-Soy desarrollador **Backend** apasionado por el análisis de problemas y la construcción de soluciones escalables.  
-Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases de datos, aplicando buenas prácticas, patrones y principios de diseño.  
+Soy un **desarrollador backend comprometido con la calidad del software**.  
+Creo firmemente que un buen código no solo debe funcionar, sino también ser **mantenible, escalable y entendible por otros desarrolladores**.  
+Me enfoco en **aplicar buenas prácticas, patrones de diseño y principios SOLID**, garantizando que cada proyecto en el que trabajo pueda crecer y adaptarse sin problemas.  
+Disfruto **analizar problemas complejos**, planificar soluciones elegantes y ejecutar implementaciones que sean robustas y eficientes.  
+Mi objetivo es **crear software confiable y limpio**, aportando valor real a los proyectos y equipos con los que trabajo, mientras continúo aprendiendo y perfeccionando mis habilidades como desarrollador backend.  
+ 
 
 ---
 
