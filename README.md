@@ -14,7 +14,7 @@ Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases d
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
 [![EF Core](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/)
 [![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 ---
 
