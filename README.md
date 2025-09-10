@@ -39,9 +39,7 @@ Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases d
 ---
 
 ## 📬 Contacto
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-galea/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Francisco-Galea)  
-📧 **Email:** [galeafrancisco2001@gmail.com](mailto:galeafrancisco2001@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-galea/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Francisco-Galea)  📧 **Email:** [galeafrancisco2001@gmail.com](mailto:galeafrancisco2001@gmail.com)
 ---
 
 
