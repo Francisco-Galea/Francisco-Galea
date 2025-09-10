@@ -33,13 +33,12 @@ Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases d
 ---
 
 ## 🧪 Testing
-![xUnit](https://img.shields.io/badge/-xUnit-5A2D82?logo=nuget&logoColor=white)
-![Moq](https://img.shields.io/badge/-Moq-008000?logo=nuget&logoColor=white)
+![xUnit](https://img.shields.io/badge/-xUnit-5A2D82?logo=nuget&logoColor=white) ![Moq](https://img.shields.io/badge/-Moq-008000?logo=nuget&logoColor=white)
 
 ---
 
 ## 📬 Contacto
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-galea/)  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Francisco-Galea)  📧 **Email:** [galeafrancisco2001@gmail.com](mailto:galeafrancisco2001@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-galea/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Francisco-Galea) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:galeafrancisco2001@gmail.com)  
 ---
 
 
