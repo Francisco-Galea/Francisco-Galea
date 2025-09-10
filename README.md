@@ -8,7 +8,7 @@ Me enfoco en el desarrollo con **.NET**, diseño de APIs y conexión con bases d
 
 ## 🖥️ Backend
 
-[![C](https://skillicons.dev/icons?i=c)]
+![C](https://skillicons.dev/icons?i=c)
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
 [![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
