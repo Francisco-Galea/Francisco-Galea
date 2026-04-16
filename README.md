@@ -15,20 +15,8 @@ Mi objetivo es **crear software confiable y limpio**, aportando valor real a los
 ![C](https://skillicons.dev/icons?i=c)
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)]([https://dotnet.microsoft.com/](https://www.postgresql.org/))
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-[![EF Core](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/ef/)
-[![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
-
-
----
-
-## 🎨 Frontend
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.dev/)
 
 ---
 
@@ -37,6 +25,7 @@ Mi objetivo es **crear software confiable y limpio**, aportando valor real a los
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
 ---
 
@@ -47,6 +36,7 @@ Mi objetivo es **crear software confiable y limpio**, aportando valor real a los
 
 ## 📬 Contacto
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/francisco-galea/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Francisco-Galea) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:galeafrancisco2001@gmail.com)  
+
 ---
 
 
