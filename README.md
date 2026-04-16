@@ -15,17 +15,20 @@ Mi objetivo es **crear software confiable y limpio**, aportando valor real a los
 ![C](https://skillicons.dev/icons?i=c)
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
 [![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)]([https://dotnet.microsoft.com/](https://www.postgresql.org/))
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)]((https://www.postgresql.org/))
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
 
 ---
 
 ## ⚙️ Herramientas
+
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/en-us)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/es/)
 
 ---
 
